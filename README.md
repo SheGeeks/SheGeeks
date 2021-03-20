@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Corvida (@SheGeeks)
-- 👀 I’m interested in tech, birding, photography and design.
+- 👀 I talk tech in plain English at [SheGeeks.net](https://shegeeks.net) and take pictures of birds.
 - 🌱 I’m currently learning front-end web development, specifically JS & REACT
-- 💞️ I’m looking to collaborate on small and fun projects to hone my JS skills.
+- 💞️ I’m looking to collaborate on small projects to apply and strengthen my JS skills.
 - 📫 How to reach me: @Corvida anywhere else
 
 <!---
