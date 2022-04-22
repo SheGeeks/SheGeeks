@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corvida (@SheGeeks)
 - 👀 I talk tech in plain English at [SheGeeks.net](https://shegeeks.net) and take [pictures of birds](https://shegeeks.net/prints)
-- 🌱Frontend web development: 💪🏿 HTML, CSS, JS | 🏋🏿‍♀️ JS, React
+- 🌱Frontend web development: 💪🏿 HTML, CSS, JS | 🏋🏿‍♀️ React, Solidity, Solana, 
 - 💞️ Looking to collaborate on and contribute to small projects that utilize JS and/or React
 - 💬 Ask me about **Frontend Web Dev, Tech, Design, Birds**
 - 📫 [Contact me here](https://shegeeks.net/contact)
